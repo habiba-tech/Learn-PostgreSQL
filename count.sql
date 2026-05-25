@@ -22,9 +22,6 @@ VALUES (1,'lipstick',90,2),
 		(1,'eyeshadow',500,1);
 SELECT * FROM products ;
 
---SELECT DISTINCT Statment 
-SELECT DISTINCT p_name FROM products; 
-
 --DISTINCT Count 
 SELECT COUNT (DISTINCT p_price) FROM products ;	
                
