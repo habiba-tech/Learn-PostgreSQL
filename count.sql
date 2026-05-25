@@ -4,7 +4,6 @@ CREATE TABLE products (
 	p_price DECIMAL(10,2),
 	p_unit INT
 );
-
 INSERT INTO products(p_id,p_name,p_price,p_unit)
 VALUES (1,'lipstick',90,2),
 		(1,'laptop',90000,1),
