@@ -1,5 +1,5 @@
 CREATE TABLE orderData (
-	o_id INT,
+	o_id INT, 
 	o_name VARCHAR,
 	o_city VARCHAR
 );
